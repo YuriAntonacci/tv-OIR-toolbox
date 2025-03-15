@@ -8,4 +8,4 @@ The code is provided free of charge. It is neither exhaustively tested nor parti
 
 References:
 
-**Y Antonacci**, et al 'A Method for the Time-Frequency Analysis of High-Order Interactions in Non-Stationary Physiological Networks, submitted to IEEE TBME (2025)
+[1] **Y Antonacci**, et al 'A Method for the Time-Frequency Analysis of High-Order Interactions in Non-Stationary Physiological Networks, submitted to IEEE TBME (2025)
